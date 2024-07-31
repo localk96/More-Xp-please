@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "MoreXp",
+    "cost": 0,
+    "uniques": [ "Automatically built in all cities where it is buildable",
+		    "Limited to [1] per Civilization",
+		    "Unbuildable <for [AI player]>",
+        "New [Military] units start with [400] Experience [in all cities]", "[+300]% XP gained from combat <for [Military] units>"]}
+]
